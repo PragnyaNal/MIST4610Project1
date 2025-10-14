@@ -6,4 +6,5 @@ Group 1
 
 # Team Members
 1. Pragnya Nallagonda [@PragnyaNal](https://github.com/PragnyaNal)
-2. Carter Trent https://github.com/mct29403 
+2. Carter Trent https://github.com/mct29403
+3. Kohan Davis
