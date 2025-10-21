@@ -11,7 +11,7 @@ Group 1
 4. Eric Mied https://github.com/ericmied
 
 # Problem Description:
-Our Goal was to build a database storing information of a mixed martial arts league. The main entity is the fights and we aim to store data to organize and efficiently compare aspects of the fights. To compare and provide further insight into the data we plan to use queries to filter the data into information
+Our goal was to build a database storing information of a mixed martial arts league. The main entity is the fights and we aim to store data to organize and efficiently compare aspects of the fights. To compare and provide further insight into the data we plan to use queries to filter the data into information.
 
 # Data Model
 
