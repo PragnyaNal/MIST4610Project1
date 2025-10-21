@@ -26,7 +26,7 @@ The Referee entity stores information about referees who oversee fights, and eac
 
 Finally, the Sponsorship entity represents commercial partnerships between fighters and brands. Each sponsorship record includes brand name, contract start and end dates, and the associated fighter, establishing a many-to-one relationship between Sponsorship and Fighter.
 
-<img width="724" height="236" alt="image" src="https://github.com/user-attachments/assets/6a045835-5b7c-4a34-969e-475baab057ce" />
+<img width="1019" height="333" alt="image" src="https://github.com/user-attachments/assets/8e68f983-1707-4d3c-a704-ff39a346fc62" />
 
 # Data Dictionary
 <img width="532" height="635" alt="Screenshot 2025-10-21 161653" src="https://github.com/user-attachments/assets/6b36c2aa-f7f0-41e1-83b0-65ebdb701867" />
