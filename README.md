@@ -36,7 +36,7 @@ Finally, the Sponsorship entity represents commercial partnerships between fight
 
 
 # Queries
-1. Query 1 lists the event details for the fight nights. This list includes the EventID, EventName, EventDate, EventLocation, and EventPromotion. Query 1 allows managers to see important logistical informaiton in terms of each fight night. Knowing information like event date and location will be important for predicting revenue for the fight night as well as being important information for planning the events.
+1. Query 1 helps management understand the demographic makeup of their fighters. Knowing the number of fighters by nationality can help the organization plan international marketing, schedule global events, and track diversity across its roster. It can also help promoters highlight cultural representation for broadcast or fan engagement purposes.
 
   <img width="542" height="254" alt="image" src="https://github.com/user-attachments/assets/69cf36f1-e617-4181-8f6a-f13450e7ec62" />
 
@@ -48,7 +48,7 @@ Finally, the Sponsorship entity represents commercial partnerships between fight
 
     <img width="447" height="348" alt="image" src="https://github.com/user-attachments/assets/a16c3e06-b626-4c4a-b5fa-7148097bd1fc" />
 
-4. Query 4 lists the gyms that the fighters in the event train at. Included in this query is the gym ID, gym name, and gym location. This query allows managers to see the different gyms each fighter has trained at. Gyms can be influential on a fighter as each gym has different coaches and different techniques that may be taught there that might influence a fight. This information is also important for announcers as it may influence some of their dialogue during the fight.
+4. Query 4 is important for management because it helps monitor referee activity and experience levels. By knowing how many bouts each referee has handled, event coordinators can assign officials appropriately—giving veteran referees high-profile fights and ensuring even distribution of work. It also aids in performance evaluation, certification tracking, and identifying which referees are most active across multiple events.
 
 <img width="853" height="278" alt="image" src="https://github.com/user-attachments/assets/d0346aad-f0f2-40a3-a363-559f36ae3f97" />
 
