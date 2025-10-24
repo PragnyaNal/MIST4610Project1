@@ -37,9 +37,13 @@ Finally, the Sponsorship entity represents commercial partnerships between fight
 
 # Queries
 1. Query 1 lists the event details for the fight nights. This list includes the EventID, EventName, EventDate, EventLocation, and EventPromotion. Query 1 allows managers to see important logistical informaiton in terms of each fight night. Knowing information like event date and location will be important for predicting revenue for the fight night as well as being important information for planning the events.
-2. Query 2 alphabetizes the fighters participating in the fight nights. This query includes FighterID, and the fighters first and last name. Query 2 allows for managers to get important information like the fighters names to people running the event such as promoters, as well as announcers for fight commentary. 
-3. Query 3 lists the weight classes used in mixed martial arts. This query includes weight class ID, the weight class name, and the max weight allowed for each weight class. This is important information for the manager as it allows them to see what weight class each fighter in the fight night is in. It also allows for guidelines within the sport and ensures that each fighter is in the correct weight class at weigh-ins.
-4. Query 4 lists the gyms that the fighters in the event train at. Included in this query is the gym ID, gym name, and gym location. This query allows managers to see the different gyms each fighter has trained at. Gyms can be influential on a fighter as each gym has different coaches and different techniques that may be taught there that might influence a fight. This information is also important for announcers as it may influence some of their dialogue during the fight.
-5. 
+   ![Uploading IMG_0764.png…]()
+3. Query 2 alphabetizes the fighters participating in the fight nights. This query includes FighterID, and the fighters first and last name. Query 2 allows for managers to get important information like the fighters names to people running the event such as promoters, as well as announcers for fight commentary. 
+4. Query 3 lists the weight classes used in mixed martial arts. This query includes weight class ID, the weight class name, and the max weight allowed for each weight class. This is important information for the manager as it allows them to see what weight class each fighter in the fight night is in. It also allows for guidelines within the sport and ensures that each fighter is in the correct weight class at weigh-ins.
+5. Query 4 lists the gyms that the fighters in the event train at. Included in this query is the gym ID, gym name, and gym location. This query allows managers to see the different gyms each fighter has trained at. Gyms can be influential on a fighter as each gym has different coaches and different techniques that may be taught there that might influence a fight. This information is also important for announcers as it may influence some of their dialogue during the fight.
+6. 
+
 # Database information
 Name of the database: ns_F25MIST4610_15058_Group1
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
