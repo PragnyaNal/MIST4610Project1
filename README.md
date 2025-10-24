@@ -36,6 +36,10 @@ Finally, the Sponsorship entity represents commercial partnerships between fight
 
 
 # Queries
+
+<img width="575" height="153" alt="image" src="https://github.com/user-attachments/assets/25e0e59b-5fce-4c85-8f74-e3ea1ced7dae" />
+
+
 1. Query 1 helps management understand the demographic makeup of their fighters. Knowing the number of fighters by nationality can help the organization plan international marketing, schedule global events, and track diversity across its roster. It can also help promoters highlight cultural representation for broadcast or fan engagement purposes.
 
   <img width="542" height="254" alt="image" src="https://github.com/user-attachments/assets/69cf36f1-e617-4181-8f6a-f13450e7ec62" />
