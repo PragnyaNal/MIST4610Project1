@@ -9,7 +9,7 @@ Group 1
 2. Carter Trent https://github.com/mct29403
 3. Kohan Davis https://github.com/krd90067
 4. Eric Mied https://github.com/ericmied
-5. Vraj Pate https://github.com/vrajpatel543
+5. Vraj Patel https://github.com/vrajpatel543
 
 # Problem Description:
 Our goal was to build a database storing information for a specific fight night, that exhibits a set group of fighters. The main entity is the fights and we aim to store data to organize and efficiently compare aspects of the fights. To compare and provide further insight into the data we plan to use queries to filter the data into information.
